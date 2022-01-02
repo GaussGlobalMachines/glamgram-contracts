@@ -27,7 +27,7 @@ contract CultNFT is ERC721Upgradeable, OwnableUpgradeable, ReentrancyGuardUpgrad
         OwnableUpgradeable.__Ownable_init();
         ReentrancyGuardUpgradeable.__ReentrancyGuard_init();
         ERC721Upgradeable.__ERC721_init("GlamGram", "GGM");
-        setBaseURI("https://rh25q24tvf.execute-api.eu-west-2.amazonaws.com/dev/token?id=");
+        setBaseURI("https://glamgram.social");
     }
 
     /**
