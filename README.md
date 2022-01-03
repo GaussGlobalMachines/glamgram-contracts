@@ -1,4 +1,4 @@
-# GlamNet
+# CultNet
 
 - First Version deployed on Ropsten TestNet >> https://ropsten.etherscan.io/tx/0x860aee6667985a57c205cd9e12d413f0f8d71120671d273dfd72c0cd59041e63
 
@@ -13,22 +13,13 @@ Our platform is designed in such a way that it would give all the lost glory to 
 
 ## How we built it
 - Solidity Contracts
-- Arbitrum Network Deployment
-- Polygon Network Deployment
-
-## Challenges we ran into
-- Beginner to Arbitrum Rollups
-- Beginner on DeFi Ecosystem
+- Ropten Network Deployment
 
 ## Accomplishments that we're proud of
 - Our experience design concepts
 - Our novel features
 
-## What we learned
-- Arbitrum Rollup Architecture
-
-## What's next for AnkarNet
+## What's next for CultNet
 - Completion of the DApp
-- Integration with Graph protocol
 - Integration with IPFS Minty
 - Integration with Biconomy SDK
