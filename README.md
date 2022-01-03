@@ -4,6 +4,7 @@
 
 ## Inspiration
 - Decentralised Social Networks like Diaspora, and Arena.
+- Fragmented Cultures in the existing social networks
 
 ## Problem Statement
 Over time the celebrity lost their prominence as well as fame. Existing social networking platforms failed to bridge the gap between followers and celebrities. Hence this is high time that we should reinvent the social network with the help of blockchain technology for the entertainment industry.
